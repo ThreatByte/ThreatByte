@@ -6,4 +6,11 @@
 - 🏒 I like to watch hockey favourite team Montreal Canadians.
 - 💻 I like to create virtual lab environments.
 
+## Projects
+
+- 📋 Created a risk matrix for the healthcare industry. Collaborated with three other people.
+
+
+
 ### Blog Posts
+
