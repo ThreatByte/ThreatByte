@@ -9,7 +9,7 @@
 ## Projects
 
 - 📋 Created a risk matrix for the healthcare industry. Collaborated with three other people.
-
+-    Created a breach report based on Solar Winds Supply Chain Attack.
 
 
 ### Blog Posts
