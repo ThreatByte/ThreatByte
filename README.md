@@ -9,8 +9,10 @@
 ## Projects
 
 - 📋 Created a risk matrix for the healthcare industry. Collaborated with three other people.
--    Created a breach report based on Solar Winds Supply Chain Attack.
-
+- 📋 Created a breach report based on Solar Winds Supply Chain Attack.
+- 📋 Used Splunk to Query Information in the assignment. Also, Queried Event Logs.
+- 📋 Created a Active Directory Home Lab, Joined Domain "Threat Byte", Users joined domain.
+- 📋 Created a Incident Response Report for putty.exe executable.
 
 ### Blog Posts
 
