@@ -14,6 +14,7 @@
 - 📋 Created a Active Directory Home Lab, Joined Domain "Threat Byte", Users joined domain.
 - 📋 Created a Incident Response Report for putty.exe executable.
 - 📋 Created some python scripts.
+- 📋 Created some Discord Voip App.
 
 ### Blog Posts
 
