@@ -15,6 +15,7 @@
 - 📋 Created a Incident Response Report for putty.exe executable.
 - 📋 Created a Computer Forensic Report for AtomicRedTeam powershell script.
 - 📋 Created some python scripts.
+- 📋 Created some C++ scripts.
 - 📋 Created some Discord Voip App.
 
 ### Blog Posts
