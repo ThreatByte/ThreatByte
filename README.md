@@ -1,7 +1,7 @@
 # Hi, My Name Is Chris 👋 
 
 
-## I'm a Student Studying Cyber Security
+## I recently graduated my program with a degree in Cyber Security
 
 - 💻 I like to create virtual lab environments.
 
